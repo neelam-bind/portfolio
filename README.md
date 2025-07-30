@@ -8,6 +8,10 @@ This is my personal portfolio website built with **React** and styled using **Ta
 - Tailwind CSS
 - Lucide Icons
 
+## 🌐 Live Demo
+
+🔗 [View Portfolio on Vercel](https://portfolio-pied-eight-37.vercel.app)
+
 ## 🛠️ Installation
 
 Clone the repository and install dependencies:
